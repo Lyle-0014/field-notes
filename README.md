@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Log-Based Failure Alerts for Node.js Express APIs: A Practical Datadog Alternative](posts/log-based-failure-alerts-for-node-js-express-apis-a-practical-datadog-al.md)
 - [Node.js Uptime Alerts: Polling Metrics APIs Every Minute for Failures](posts/node-js-uptime-alerts-polling-metrics-apis-every-minute-for-failures.md)
 - [Cron vs Queue for a Scheduled Daily Report Email: How I Choose the Backend](posts/cron-vs-queue-for-a-scheduled-daily-report-email-how-i-choose-the-backen.md)
 - [Background jobs in Node.js and Express: enqueue on the API request, consume in a worker](posts/background-jobs-in-node-js-and-express-enqueue-on-the-api-request-consum.md)
