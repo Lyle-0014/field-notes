@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [An ADR for Small B2B SaaS Error Grouping, Search, Event Detail, and Resolution](posts/an-adr-for-small-b2b-saas-error-grouping-search-event-detail-and-resolut.md)
 - [Picking a cron service for daily report emails behind a public webhook endpoint](posts/picking-a-cron-service-for-daily-report-emails-behind-a-public-webhook-e.md)
 - [Log-Based Failure Alerts for Node.js Express APIs: A Practical Datadog Alternative](posts/log-based-failure-alerts-for-node-js-express-apis-a-practical-datadog-al.md)
 - [Node.js Uptime Alerts: Polling Metrics APIs Every Minute for Failures](posts/node-js-uptime-alerts-polling-metrics-apis-every-minute-for-failures.md)
