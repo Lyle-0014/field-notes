@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Choosing a Text-to-Image API for a Startup MVP: Cost per Image and Model Fit](posts/choosing-a-text-to-image-api-for-a-startup-mvp-cost-per-image-and-model.md)
 - [Pruning old records on a schedule: cron API or queue workers in a Node.js SaaS?](posts/pruning-old-records-on-a-schedule-cron-api-or-queue-workers-in-a-node-js.md)
 - [An ADR for Small B2B SaaS Error Grouping, Search, Event Detail, and Resolution](posts/an-adr-for-small-b2b-saas-error-grouping-search-event-detail-and-resolut.md)
 - [Picking a cron service for daily report emails behind a public webhook endpoint](posts/picking-a-cron-service-for-daily-report-emails-behind-a-public-webhook-e.md)
